@@ -1,0 +1,5 @@
+download cyberduck (or anything to connect to and ftp or sftp) and sublime text (or any text editor for code)
+connect to the ftp
+edit all content in staging (flywheel or cdm) before syncing to live site
+erancedar/omega-point-home_staging/wp-content/themes/ompnt/template-parts
+right click to open with text editor
